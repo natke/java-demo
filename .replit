@@ -1,0 +1,2 @@
+language="java"
+run="mvn exec:java -Dexec.mainClass=\"com.natke.App\""
